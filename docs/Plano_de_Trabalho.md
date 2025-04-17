@@ -1,6 +1,5 @@
 PLANO DE TRABALHO
 
-|       |    |
 |----------|------------|
 |Nome do Projeto:| DR.Tempo |
 | Codinome: | Aplicativo de monitoramento climatico interativo ou AMCI|
