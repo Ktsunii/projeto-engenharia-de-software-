@@ -1,16 +1,12 @@
-PLANO DE TRABALHO
+## **PLANO DE TRABALHO**
 |Nome do Projeto:| DR.Tempo| 
 |----------|------------|
-|Nome do Projeto:| DR.Tempo |
 | Codinome: | Aplicativo de monitoramento climatico interativo ou AMCI|
-|||
-|||
-Nome do Projeto:
-
-DR.Tempo
-Codinome: Aplicativo de monitoramento climatico interativo ou AMCI
-
-Versão: 0.1
+|Versão|0.1|
+|Status||
+|Número de Controle SRBR-M:||
+|Executor Principal:||
+|Coordenador do Projeto:|Andrey Antonio de Oliveira Rodrigues|
 
 Status: Define o estado atual do projeto (Exemplo: "Em
 desenvolvimento", "Concluído", "Aguardando aprovação").
@@ -27,3 +23,55 @@ software. Pode ser um nome criado pela equipe.
 
 Coordenador do Projeto: Responsável pela supervisão e orientação do projeto. No
 contexto acadêmico, pode ser o professor da disciplina
+
+##  **Historico de versões** 
+
+| **Versão** | **Descrição** | **Autor** | **Data**|
+|-----|-----|------|-----|
+|  0.1  |    |    | 17/04/2025 |
+
+Sumário
+1. INTRODUÇÃO 
+1.1 Objeto
+1.2 Motivação, Justificativa e Oportunidade
+1.3 Caracterização do Projeto 
+1.3.1 Classe
+1.3.2 Enquadrabilidade 
+1.3.3 Tipo
+2. INFORMAÇÕES GERAIS
+2.1 Escopo Geral
+2.1.1 Escopo Específico
+2.1.2 Escopo Negativo
+2.2 Ambiente de Desenvolvimento
+2.3 Características Inovadoras do Projeto
+2.4 Resultados Esperados
+3. METODOLOGIA DE PROJETO
+3.1 Estrutura do Projeto 
+3.2 Equipe de Projeto: Papéis e Responsabilidades dos integrantes
+3.3 Backlog do Sprint
+3.4 Controle de Mudanças
+3.5 Gerenciamento de Comunicação
+
+  ## 1. INTRODUÇÃO
+  
+A introdução apresenta um panorama geral do projeto, contextualizando seu propósito,
+justificativa e características principais.
+1.1 Objeto
+Descreve o que será desenvolvido. Deve ser um resumo objetivo do software, explicando
+sua função principal.
+Exemplo:
+O projeto consiste no desenvolvimento de um sistema web para gestão de eventos
+acadêmicos, permitindo o cadastro de participantes, submissão de trabalhos e emissão de
+certificados.
+1.2 Motivação, Justificativa e Oportunidade
+Explica o motivo pelo qual o projeto é relevante, destacando problemas que ele resolve e
+as oportunidades de aplicação.
+Exemplo:
+Atualmente, muitas instituições enfrentam dificuldades na organização de eventos
+acadêmicos, dependendo de processos manuais e propensos a erros. Esse sistema visa
+automatizar e centralizar a gestão desses eventos, aumentando a eficiência e reduzindo falhas.
+1.3 Caracterização do Projeto
+Aqui são definidos atributos que classificam o projeto em diferentes categorias.
+1.3.1 Classe
+Indica a categoria geral do projeto, especificando suas características principais. É uma
+forma de classificar o software dentro de um grupo maior de sistemas.
