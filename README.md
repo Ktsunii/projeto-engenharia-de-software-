@@ -11,3 +11,6 @@ MICHAEL VICTOR FERREIRA HAYDEN 22354436 <br>
 
 
 [Plano de trabalho](https://github.com/Ktsunii/projeto-engenharia-de-software-/tree/main/docs/1.plano_de_trabalho)<br>
+
+[Design thinnking](https://github.com/Ktsunii/projeto-engenharia-de-software-/tree/main/docs/2_design-thinking)<br>
+
