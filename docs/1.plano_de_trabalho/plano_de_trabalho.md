@@ -6,15 +6,7 @@
 |Status|Em desenvolvimento|
 |Número de Controle SRBR-M:|009|
 |Executor Principal:|Gladi|
-|Coordenador do Projeto:|Andrey Antonio de Oliveira Rodrigues|
-
-
-Executor Principal: A pessoa ou equipe responsável pelo desenvolvimento do
-
-software. Pode ser um nome criado pela equipe.
-
-Coordenador do Projeto: Responsável pela supervisão e orientação do projeto. No
-contexto acadêmico, pode ser o professor da disciplina
+|Coordenador do Projeto:|Andrey Antonio de Oliveira Rodrigues| <br>
 
 ##  **Historico de versões** 
 
