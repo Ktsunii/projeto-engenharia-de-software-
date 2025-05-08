@@ -38,14 +38,16 @@ Sumário
 3.4 Controle de Mudanças<br>
 3.5 Gerenciamento de Comunicação<br>
 
-  ## 1. INTRODUÇÃO
+  ## 1. INTRODUÇÃO <br>
   
-O presente momento o projeto AMCI visa ser um app de uso diario, para monitoramento climático,
-com gestão de tempo embutido. Trazendo uma maior organização a depender do tempo, focando 
+O presente momento o projeto AMCI visa ser um app de uso diario, para monitoramento climático,<br>
+com gestão de tempo embutido. Trazendo uma maior organização a depender do tempo, focando <br>
 principalmente em enformar o usuario e o auxiliar nas atividades diarias segundo o clima.<br>
 
-###1.1 Objeto
-O objetivo e um software de monitoramento climático com gestão de tempo embutido
+###1.1 Objeto <br>
+O objetivo e um software de monitoramento climático com gestão de tempo embutido<br>
+
+
 Exemplo:
 O projeto consiste no desenvolvimento de um sistema web para gestão de eventos
 acadêmicos, permitindo o cadastro de participantes, submissão de trabalhos e emissão de
