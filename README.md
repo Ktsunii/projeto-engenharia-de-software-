@@ -9,10 +9,10 @@ JANDER CASTRO DA COSTA JUNIOR -22354306 <br>
 JENNER LUCAS DO SANTOS CARNEIRO -22351505 <br>
 MICHAEL VICTOR FERREIRA HAYDEN 22354436 <br>
 
-##Projeto:
-nome: Dr.tempo👓 
-objetivo: Um app de monitoramento climatico interativo, que tras dados em tempo real do tempo, mapeamento da regeão com dados climaticos
-e um organizador de tempo embutido, que pode diariamente organizar seus afazeres a depender do estado do tempo no dia.
+##Projeto:<br>
+nome: Dr.tempo👓 <br>
+objetivo: Um app de monitoramento climatico interativo, que tras dados em tempo real do tempo, mapeamento da regeão com dados climaticos <br>
+e um organizador de tempo embutido, que pode diariamente organizar seus afazeres a depender do estado do tempo no dia. <br>
 
 ##Trabalho pratico 1<br>
 [Plano de trabalho](https://github.com/Ktsunii/projeto-engenharia-de-software-/tree/main/docs/1.plano_de_trabalho)<br>
