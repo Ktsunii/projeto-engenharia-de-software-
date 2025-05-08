@@ -3,19 +3,11 @@
 |----------|------------|
 | Codinome: | Aplicativo de monitoramento climatico interativo ou AMCI|
 |Versão|0.1|
-|Status||
-|Número de Controle SRBR-M:||
-|Executor Principal:||
+|Status|Em desenvolvimento|
+|Número de Controle SRBR-M:|009|
+|Executor Principal:|Gladi|
 |Coordenador do Projeto:|Andrey Antonio de Oliveira Rodrigues|
 
-Status: Define o estado atual do projeto (Exemplo: "Em
-desenvolvimento", "Concluído", "Aguardando aprovação").
-
-Número de Controle SRBR-M:
-
-Código de rastreamento interno para identificação do
-projeto. Pode ser um número fictício para controle
-acadêmico
 
 Executor Principal: A pessoa ou equipe responsável pelo desenvolvimento do
 
@@ -28,8 +20,10 @@ contexto acadêmico, pode ser o professor da disciplina
 
 | **Versão** | **Descrição** | **Autor** | **Data**|
 |-----|-----|------|-----|
-|  0.1  |    |    | 17/04/2025 |
-
+|  0.1  | Criação plano de  trabalho | Ícaro   | 17/04/2025 |
+| 0.1.1| Criação Golde cicle| caio ||
+| 0.1.2| Criação Analise SWOT| |24/04/2025|
+| 0.1.2| | ||
 Sumário
 1. **INTRODUÇÃO** <br>
 1.1 Objeto <br>
@@ -54,11 +48,12 @@ Sumário
 
   ## 1. INTRODUÇÃO
   
-A introdução apresenta um panorama geral do projeto, contextualizando seu propósito,
-justificativa e características principais.
-1.1 Objeto
-Descreve o que será desenvolvido. Deve ser um resumo objetivo do software, explicando
-sua função principal.
+O presente momento o projeto AMCI visa ser um app de uso diario, para monitoramento climático,
+com gestão de tempo embutido. Trazendo uma maior organização a depender do tempo, focando 
+principalmente em enformar o usuario e o auxiliar nas atividades diarias segundo o clima.<br>
+
+###1.1 Objeto
+O objetivo e um software de monitoramento climático com gestão de tempo embutido
 Exemplo:
 O projeto consiste no desenvolvimento de um sistema web para gestão de eventos
 acadêmicos, permitindo o cadastro de participantes, submissão de trabalhos e emissão de
