@@ -14,7 +14,7 @@ nome: Dr.tempo👓
 objetivo: Um app de monitoramento climatico interativo, que tras dados em tempo real do tempo, mapeamento da regeão com dados climaticos
 e um organizador de tempo embutido, que pode diariamente organizar seus afazeres a depender do estado do tempo no dia.
 
-##Trabalho pratico 1
+##Trabalho pratico 1<br>
 [Plano de trabalho](https://github.com/Ktsunii/projeto-engenharia-de-software-/tree/main/docs/1.plano_de_trabalho)<br>
 
 [Design thinnking](https://github.com/Ktsunii/projeto-engenharia-de-software-/tree/main/docs/2_design-thinking)<br>
