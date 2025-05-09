@@ -78,5 +78,14 @@ quando a temperatura estiver muito alta, deve permitir montar uma rotina diaria 
 emitir lembrente dos compromissos, deve permitir que seja enviado um sinal de desastre pros apps da região enviando uma area padrao chamando atuomaticamente<br>
 os orgãos responsaveis parar conter desastres.<br>
 
-O escopo geral descreve, de forma ampla, as funcionalidades e objetivos principais do
-sistema, delimitando o que será entregue no projeto.
+###2.1.1 Escopo Específico
+
+O escopo específico detalha as funcionalidades e requisitos que serão implementados.
+Aqui, é importante listar as principais entregas do sistema.
+Exemplo:
+- Cadastro e gerenciamento de eventos.
+- Inscrição de participantes e controle de presença.
+- Submissão e avaliação de trabalhos científicos.
+- Geração e envio de certificados digitais.
+- Painel administrativo para organizadores de eventos.
+- Isso garante que todos saibam exatamente o que será desenvolvido dentro do projeto.
