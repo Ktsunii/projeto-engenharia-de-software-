@@ -55,12 +55,28 @@ o software alem de suprir suas necessidades tbm oferece a oportunidade de ter ma
 ###1.3 Caracterização do Projeto
 
 ###1.3.1 Classe
-|Classe|detalhamento|
+|Classe|Detalhamento|
 |--------|--------|
 |Aplicativo Móvel|Um app de monitoramento climatico e gestão de tempo|
 
 ###1.3.2 Enquadrabilidade
 
-|Enquadrabilidade|descrição|
+|Enquadrabiliade|Detalhamento|
+|------|-----------|
+|Software comercial|Um software de analise de clima e gestão de coograma segundo o tempo|
+
+###1.3.3 Tipo
+|Tipo|Detalahamento|
 |-----|--------|
-|Aplicativo Móvel|Um app de monitoramento climatico e gestão de tempo|
+| Trabalho academico|O desenvolvimento será realizado no contexto de uma disciplina de Engenharia de Software.|
+
+##2. INFORMAÇÕES GERAIS<br>
+
+###2.1 Escopo Geral
+O software tem como objetivo ser um app de monitoramento climatico com gestao de tempo,ele deve enviar avisando quando estiver perto de chover,<br>
+quando a temperatura estiver muito alta, deve permitir montar uma rotina diaria ou semanal, deve alterar esse conograma segundo o clima se permitido pelo usuario,<br>
+emitir lembrente dos compromissos, deve permitir que seja enviado um sinal de desastre pros apps da região enviando uma area padrao chamando atuomaticamente<br>
+os orgãos responsaveis parar conter desastres.<br>
+
+O escopo geral descreve, de forma ampla, as funcionalidades e objetivos principais do
+sistema, delimitando o que será entregue no projeto.
