@@ -47,21 +47,20 @@ principalmente em enformar o usuario e o auxiliar nas atividades diarias segundo
 ###1.1 Objeto <br>
 O objetivo e um software de monitoramento climático com gestão de tempo embutido<br>
 
+###1.2 Motivação, Justificativa e Oportunidade
+Regularmente as pessoas esquecem de verificar o tempo principalmente quando vão fazer uma atividade ao ar livre que estava em seu conograma<br>
+e quando vão fazer essa atividade ou esta chovendo ou esta quente demais parar ficar la fora fazendo esta atividade, então para solucionar esse problema<br>
+o software alem de suprir suas necessidades tbm oferece a oportunidade de ter mais informação ao seu dispor.<br>
 
-Exemplo:
-O projeto consiste no desenvolvimento de um sistema web para gestão de eventos
-acadêmicos, permitindo o cadastro de participantes, submissão de trabalhos e emissão de
-certificados.
-1.2 Motivação, Justificativa e Oportunidade
-Explica o motivo pelo qual o projeto é relevante, destacando problemas que ele resolve e
-as oportunidades de aplicação.
-Exemplo:
-Atualmente, muitas instituições enfrentam dificuldades na organização de eventos
-acadêmicos, dependendo de processos manuais e propensos a erros. Esse sistema visa
-automatizar e centralizar a gestão desses eventos, aumentando a eficiência e reduzindo falhas.
-1.3 Caracterização do Projeto
-Aqui são definidos atributos que classificam o projeto em diferentes categorias.
-1.3.1 Classe
-Indica a categoria geral do projeto, especificando suas características principais. É uma
-forma de classificar o software dentro de um grupo maior de sistemas.
+###1.3 Caracterização do Projeto
 
+###1.3.1 Classe
+|Classe|detalhamento|
+|...|.........|
+|Aplicativo Móvel|Um app de monitoramento climatico e gestão de tempo|
+
+###1.3.2 Enquadrabilidade
+
+|Enquadrabilidade|descrição|
+|...|.........|
+|Aplicativo Móvel|Um app de monitoramento climatico e gestão de tempo|
