@@ -56,7 +56,7 @@ o software alem de suprir suas necessidades tbm oferece a oportunidade de ter ma
 
 ###1.3.1 Classe
 |Classe|detalhamento|
-|...|.........|
+|--------|--------|
 |Aplicativo Móvel|Um app de monitoramento climatico e gestão de tempo|
 
 ###1.3.2 Enquadrabilidade
