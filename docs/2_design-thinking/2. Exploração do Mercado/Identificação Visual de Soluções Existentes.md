@@ -1,7 +1,4 @@
-# Design Thinking - Fase de Inspiração 
-
-## Função no Projeto
-Atuei na fase de **Inspiração** do Design Thinking, responsável por identificar soluções já existentes no mercado.
+# Fase de Inspiração 
 
 ## Aplicativos Analisados
 - Climatempo
@@ -26,7 +23,3 @@ Atuei na fase de **Inspiração** do Design Thinking, responsável por identific
   - Personalização focada no bem-estar
   - Alertas colaborativos (comunidade)
   - Visualização 3D mais amigável
-
-## Próximos Passos
-- Entrar na fase de **Ideação**, utilizando esses insights para construir funcionalidades exclusivas para o Doctor Clima.
-  
