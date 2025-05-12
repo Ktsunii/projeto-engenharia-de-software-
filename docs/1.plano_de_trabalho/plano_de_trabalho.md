@@ -157,9 +157,7 @@ desenvolvimento.
 |Time Scrum|Jener, Michel e caio: time de desenvolvimento|
 
 ### 3.3 Backlog do Sprint
-O backlog do sprint é uma lista de tarefas e funcionalidades que a equipe se compromete
-a entregar dentro de uma sprint (período de trabalho, geralmente de 1 a 2 semanas). Ele é
-derivado do backlog do produto, que contém todas as funcionalidades desejadas para o sistema
+[backlog do sprint](https://github.com/users/Ktsunii/projects/5)
 
 
 3.4 Controle de Mudanças
