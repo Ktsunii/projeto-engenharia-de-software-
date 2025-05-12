@@ -8,7 +8,6 @@ dados claros e atualizados, e gestores de segurança pública carecem de ferrame
 Queremos resolver a dor da desinformação e da má gestão do tempo frente às mudanças climáticas.
 
 ## Como?
-(Diferencial/Inovação)
 Desenvolvendo um aplicativo integrado e inteligente que une:
 
 previsões climáticas detalhadas e localizadas em tempo real,
@@ -22,7 +21,6 @@ e um painel inteligente com suporte à tomada de decisão em cenários críticos
 Nosso diferencial está na personalização da experiência, na confiabilidade dos dados e na integração entre usuários com diferentes objetivos climáticos.
 
 ## O quê?
-(Solução)
 Um aplicativo climático multiplataforma com foco em previsão, alerta e gestão de tempo e riscos, que:
 
 Oferece previsões atualizadas e confiáveis com visualização intuitiva;
