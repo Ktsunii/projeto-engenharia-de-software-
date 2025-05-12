@@ -2,7 +2,7 @@
 |Nome do Projeto:| DR.Tempo| 
 |----------|------------|
 | Codinome: | Aplicativo de monitoramento climatico interativo ou AMCI|
-|Versão|0.1|
+|Versão|0.8|
 |Status|Em desenvolvimento|
 |Número de Controle SRBR-M:|009|
 |Executor Principal:|Gladi|
