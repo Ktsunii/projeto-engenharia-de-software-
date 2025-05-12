@@ -44,10 +44,10 @@ O presente momento o projeto AMCI visa ser um app de uso diario, para monitorame
 com gestão de tempo embutido. Trazendo uma maior organização a depender do tempo, focando <br>
 principalmente em enformar o usuario e o auxiliar nas atividades diarias segundo o clima.<br>
 
-###1.1 Objeto <br>
+### 1.1 Objeto <br>
 O objetivo e um software de monitoramento climático com gestão de tempo embutido<br>
 
-###1.2 Motivação, Justificativa e Oportunidade
+### 1.2 Motivação, Justificativa e Oportunidade
 Regularmente as pessoas esquecem de verificar o tempo principalmente quando vão fazer uma atividade ao ar livre que estava em seu conograma<br>
 e quando vão fazer essa atividade ou esta chovendo ou esta quente demais parar ficar la fora fazendo esta atividade, então para solucionar esse problema<br>
 o software alem de suprir suas necessidades tbm oferece a oportunidade de ter mais informação ao seu dispor.<br>
@@ -110,9 +110,9 @@ qual permiti visualizar inumeros fatores climaticos por meio de um mapa da regi�
 -Que possui um sistema de gestão de tempo, ao qual visa alterar a rotina do usuario conforme o tempo.
 -Possui uma funcionalidade para emergencias para ajudar a saber mais raido caso haja algum tipo de desastre.<br>
 
-##3. METODOLOGIA DE PROJETO
+## 3. METODOLOGIA DE PROJETO
 
-###3.1 Estrutura do Projeto
+### 3.1 Estrutura do Projeto
 
 O desenvolvimento do projeto será dividido em cinco fases principais, seguindo a
 abordagem ágil com Scrum, utilizando sprints curtas para entregas iterativas.
@@ -160,30 +160,16 @@ desenvolvimento.
 [backlog do sprint](https://github.com/users/Ktsunii/projects/5)
 
 
-3.4 Controle de Mudanças
-O controle de mudanças define como serão tratadas solicitações de alteração no projeto
-após o início do desenvolvimento. Ele evita mudanças desorganizadas que podem atrasar o
-cronograma e comprometer a qualidade do software.
-3.5 Gerenciamento de Comunicação
-O gerenciamento de comunicação define como a equipe interage durante o projeto para
-garantir alinhamento e produtividade. Isso inclui reuniões, canais de comunicação e ferramentas
-utilizadas. Principais elementos do gerenciamento de comunicação:
+### 3.4 Controle de Mudanças
+Todas as mudançãs serão registradas no plano de trabalho como 0.0.1 primeiro zero sendo estado do projeto 0= não concluido 1= concluido, sem seguida a versão 2=analise swot, a atualização 1=primeira vez feita
+
+### 3.5 Gerenciamento de Comunicação
+
 - Reuniões de Planejamento (Sprint Planning) – No início de cada sprint, a equipe define as
 tarefas e prioridades.
-- Daily Stand-ups (Reuniões Diárias) – Curtas reuniões diárias (5 a 10 min) para sincronizar o
-progresso e remover impedimentos.
-- Sprint Review (Revisão da Sprint) – No final da sprint, a equipe apresenta o que foi feito.
-- Sprint Retrospective (Retrospectiva da Sprint) – Discussão sobre o que funcionou bem e o
-que pode ser melhorado.
-- Ferramentas de Comunicação – O grupo pode usar Discord, Slack ou WhatsApp para
-conversas rápidas.
-Exemplo de Comunicação Efetiva: (item obrigatório no trabalho)
-- Toda segunda-feira, a equipe faz o Sprint Planning para definir o que será desenvolvido na
-semana.
-- Todos os dias, às 9h, há um Daily Stand-up onde cada membro responde: "O que fiz
-ontem? O que farei hoje? Tenho algum impedimento?".
-- No final da sprint, a equipe realiza uma Sprint Review para demonstrar o que foi entregue
-e uma Sprint Retrospective para discutir melhorias.
+- Ferramentas de Comunicação – A comunicação e por meio de um grupo no whatsapp onde se e dividido as tarefas e solicitado ajuda as tarefas feitas<br>
+ou produções feitas em relação ao trbaalho são registradas no notion 
+A cada 15 dias era dividido oq cada um ia fazer e em seguida em cada samana se era solicitado a entrega ou relatorios do que produzio. 
 
 
 
