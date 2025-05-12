@@ -1,7 +1,7 @@
 # projeto-engenharia-de-software-
 
 Curso: Engenharia de Software
-
+Docente: Andrey Antonio de Oliveira Rodrigues
 ## Integrantes: <br>
 CAIO GONZAGA CORREIA -22451275 <br>
 ICARO DE ABREU SILVA  -22402233 <br>
