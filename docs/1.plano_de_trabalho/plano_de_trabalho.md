@@ -12,10 +12,15 @@
 
 | **Versão** | **Descrição** | **Autor** | **Data**|
 |-----|-----|------|-----|
-|  0.1  | Criação plano de  trabalho | Ícaro   | 17/04/2025 |
-| 0.1.1| Criação Golde cicle| caio ||
-| 0.1.2| Criação Analise SWOT| |24/04/2025|
-| 0.1.2| | ||
+|  0.1.7 | Atualização plano de  trabalho | Ícaro   | 10/05/2025 |
+| 0.2.1| criação Golde cicle| caio |11/05/2025|
+| 0.3.2| Atualização Analise SWOT| Ícaro |24/04/2025|
+| 0.4.3|Atualização Identificação Visual| Jener |10/05/2025|
+|0.5.1| Atualização Quadro Comparativo|Ícaro|11/05/2025|
+|0.6.4|Atualização Personas|Michel|5/05/2025|
+|0.7.3|Atualização backlog do produto |Jener,Caio,Michel|9/05/2025|
+|0.8.2|Atualização backlog do sprint| Ícaro|9/05/2025|
+
 Sumário
 1. **INTRODUÇÃO** <br>
 1.1 Objeto <br>
