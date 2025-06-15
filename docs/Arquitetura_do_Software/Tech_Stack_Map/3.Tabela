@@ -1,1 +1,11 @@
+| Área           | Tecnologias                     | Motivo                                                           |
+| -------------- | ------------------------------- | ---------------------------------------------------------------- |
+| Frontend       | React + Tailwind CSS            | Rápido, responsivo e com estilos utilitários.                    |
+| Backend        | Node.js + Express               | API leve e escalável em JavaScript.                              |
+| Banco de Dados | MongoDB ou PostgreSQL           | MongoDB: dados não estruturados. PostgreSQL: dados estruturados. |
+| Autenticação   | Firebase Auth                   | Solução pronta para login (Google, email/senha, etc.).           |
+| Mensageria     | RabbitMQ ou Apache Kafka        | Comunicação assíncrona e implementação do padrão Pub/Sub.        |
+| Clima          | OpenWeatherMap API              | Precisão e confiabilidade.                                       |
+| Deploy         | Vercel (Front) + Railway (Back) | Integração contínua e deploy automático.                         |
+| Extras         | Redis (cache), Jest (testes)    | Performance (cache) e confiabilidade (testes).                   |
 
