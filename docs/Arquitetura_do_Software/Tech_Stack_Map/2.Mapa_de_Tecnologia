@@ -1,1 +1,14 @@
+## Tecnologias e Ferramentas Utilizadas (Tech Stack Map) ⚙️
+
+Este documento apresenta o Mapa de Tecnologias (Tech Stack) do aplicativo **Dr. Tempo** (Aplicativo de Monitoramento Climático Interativo - AMCI) 🌦️, detalhando as principais ferramentas, linguagens e bibliotecas utilizadas no desenvolvimento do sistema.
+
+O Dr. Tempo foi pensado para funcionar de forma integrada e proativa, oferecendo aos usuários (como o **Jornalista** ✍️, o **Meteorologista** ☁️ e o **Gestor de Segurança** 🚨) uma experiência fluida, segura e eficiente no monitoramento climático e na gestão de suas rotinas. A escolha das tecnologias prioriza a usabilidade intuitiva (especialmente para o MVP em Thunkable), o desempenho rápido na entrega de previsões e alertas, o armazenamento confiável de dados (como históricos de 10 anos de ocorrências e 5 anos de clima), notificações eficientes em tempo real, e a capacidade de monitoramento do sistema para garantir sua estabilidade e responder a desafios.
+
+---
+
+### 2.1. Mapa de Tecnologia (Visual) 🗺️
+
+O diagrama abaixo ilustra graficamente o Tech Stack do sistema Dr. Tempo, organizando as tecnologias por suas respectivas camadas e mostrando as principais interações e dependências. Ele oferece uma visão macro das "peças" tecnológicas que compõem nosso projeto, facilitando a compreensão de como cada parte se encaixa para construir a solução completa.
+
+Este mapa está dividido em áreas claras como Frontend (a interface do usuário 📱), Backend (o cérebro do sistema 🧠), Banco de Dados (onde guardamos tudo 💾), e outros serviços essenciais para a comunicação e integração.
 
