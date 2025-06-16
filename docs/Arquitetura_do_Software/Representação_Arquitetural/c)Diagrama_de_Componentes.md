@@ -8,6 +8,7 @@ Visualizar a estrutura física do sistema. <br>
 
  Facilita o entendimento da arquitetura, tanto para desenvolvimento quanto para manutenção e evolução do sistema.
 
-
+## A seguir nosso diagrama de componentes:
 ![Diagrama sem nome drawio (4)](https://github.com/user-attachments/assets/5329a880-97fb-4a98-989a-8da4e4d74b2e)
 
+## ele dividido em partes pra melhor visualização
