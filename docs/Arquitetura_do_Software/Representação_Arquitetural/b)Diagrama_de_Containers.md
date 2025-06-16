@@ -12,3 +12,4 @@ Demonstrar como o sistema é dividido (ex.: app, backend, banco, serviços exter
 Mostrar os fluxos de comunicação (HTTP, Pub/Sub, APIs externas).<br>
 Ajudar na compreensão da arquitetura geral do sistema.<br>
 Serve como ponte entre o Diagrama de Contexto (macro) e o Diagrama de Componentes (interno de cada container).<br>
+![Dr tempo](https://github.com/user-attachments/assets/065358f1-8f11-4863-bb4d-f5a9a3320c4b)
