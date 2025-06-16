@@ -7,7 +7,7 @@ CAIO GONZAGA CORREIA -22451275 <br>
 ICARO DE ABREU SILVA  -22402233 <br>
 JENNER LUCAS DO SANTOS CARNEIRO -22351505 <br>
 MICHEL VICTOR FERREIRA HAYDEN 22354436 <br>
-
+Marcelly F. N. Souza <br>
 ## Projeto:<br>
 nome: Dr.tempo👓 <br>
 objetivo: Um app de monitoramento climatico interativo, que tras dados em tempo real do tempo, mapeamento da regeão com dados climaticos
