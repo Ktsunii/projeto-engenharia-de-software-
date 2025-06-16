@@ -21,3 +21,11 @@ e um organizador de tempo embutido, que pode diariamente organizar seus afazeres
 [Backlog do produto](https://github.com/Ktsunii/projeto-engenharia-de-software-/tree/main/docs/3_backlog_do_produto)<br>
 
 [backlog dos sprint](https://github.com/Ktsunii/projeto-engenharia-de-software-/tree/main/docs/4_backlog_dos_sprint)<br>
+
+## Trabalho pratico 2<br>
+
+[arquitetura escolhida](https://github.com/Ktsunii/projeto-engenharia-de-software-/blob/main/docs/Arquitetura_do_Software/1.Arquitetura_escolhida.md) <br>
+[Tech_Stack_Map](https://github.com/Ktsunii/projeto-engenharia-de-software-/tree/main/docs/Arquitetura_do_Software/Tech_Stack_Map)<br>
+[Representação_Arquitetura](https://github.com/Ktsunii/projeto-engenharia-de-software-/tree/main/docs/Arquitetura_do_Software/Representa%C3%A7%C3%A3o_Arquitetural) <br>
+[Rastreabiliade](https://github.com/Ktsunii/projeto-engenharia-de-software-/blob/main/docs/Arquitetura_do_Software/4.Rastreabiliade.md)
+
