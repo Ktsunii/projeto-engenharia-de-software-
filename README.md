@@ -28,4 +28,4 @@ e um organizador de tempo embutido, que pode diariamente organizar seus afazeres
 [Tech_Stack_Map](https://github.com/Ktsunii/projeto-engenharia-de-software-/tree/main/docs/Arquitetura_do_Software/Tech_Stack_Map)<br>
 [Representação_Arquitetura](https://github.com/Ktsunii/projeto-engenharia-de-software-/tree/main/docs/Arquitetura_do_Software/Representa%C3%A7%C3%A3o_Arquitetural) <br>
 [Rastreabiliade](https://github.com/Ktsunii/projeto-engenharia-de-software-/blob/main/docs/Arquitetura_do_Software/4.Rastreabiliade.md)
-
+[Casos de equivalencia e teste](https://github.com/Ktsunii/projeto-engenharia-de-software-/blob/main/Trabalho_pratico.3/Casos_De_Equivalencia_E_Teste.md)
