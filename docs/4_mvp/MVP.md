@@ -12,5 +12,5 @@ Menu que leva para as outras funcionalidades<br>
 Historico de clima onde o usuario pode ver os registro climaticos ja feitos<br>
 ![Captura de tela 2025-07-09 060444](https://github.com/user-attachments/assets/a766952d-b6e6-44e3-9c7e-ba7456c68473)<br>
 Conograma que o proprio usuario monta para organizar sua agenda<br>
-
- [thunkable](https://x.thunkable.com/copy/82242e48793d64cf69edbd8f8adca59c)
+Gravação do app: https://drive.google.com/file/d/1jQaQyBz0fKJhD_irahynvMFTehTxkuhe/view?usp=sharing
+[thunkable](https://x.thunkable.com/copy/82242e48793d64cf69edbd8f8adca59c)
