@@ -30,3 +30,7 @@ e um organizador de tempo embutido, que pode diariamente organizar seus afazeres
 [Rastreabiliade](https://github.com/Ktsunii/projeto-engenharia-de-software-/blob/main/docs/Arquitetura_do_Software/4.Rastreabiliade.md) <br>
 [Casos de equivalencia e teste](https://github.com/Ktsunii/projeto-engenharia-de-software-/blob/main/Trabalho_pratico.3/Casos_De_Equivalencia_E_Teste.md) <br>
 [Revisão das historias](https://github.com/Ktsunii/projeto-engenharia-de-software-/blob/main/Trabalho_pratico.3/Revis%C3%A3o_da_Inspe%C3%A7%C3%A3o_de_Requisitos.md) <br>
+[MVP](https://github.com/Ktsunii/projeto-engenharia-de-software-/blob/main/docs/4_mvp/MVP.md)
+[Rastreabilidade com diagramas](https://github.com/Ktsunii/projeto-engenharia-de-software-/blob/main/docs/4_mvp/Rastreabilidade_com_Diagramas%3A.md)
+[Rastreabilidade nas historias](https://github.com/Ktsunii/projeto-engenharia-de-software-/blob/main/docs/4_mvp/Rastreabilidade_com_Historias.md)
+
